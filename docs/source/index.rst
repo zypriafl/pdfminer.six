@@ -26,7 +26,7 @@ Content
 
     tutorials/index
     topics/index
-    api/index
+    reference/index
 
 
 Features
